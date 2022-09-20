@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### I am a student of Amikom Yogyakarta University
+### I have an interest in android engineer based on native kotlin
+### Currently I have also advanced study at Binnar Academy Android Engineer Division
+
 <!--
 **Rifqips/Rifqips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
