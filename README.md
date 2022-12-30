@@ -1,15 +1,23 @@
-<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
+### Hi there 👋
 
-<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
-     <a itemprop='url' href=https://www.fiverr.com/rifqipadi_ rel="nofollow" target="_blank" style='display: inline-block;'>
-        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-308a7911-9178-4515-a2bb-c0c9a8ecf104' itemprop='contentURL' style='display: none;'></div>
-        <div id='fiverr-widget-seller-data' style='display: none;'>
-            <div itemprop='name' >rifqipadi_</div>
-            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
-            <div itemprop='jobtitle'>Seller</div>
-            <div itemprop='description'>I am a software engineer, with special expertise in software development using native Kotlin. Understand the technology of the Kotlin jetpack, understand the concepts of MVP and MVVM architectures, and familiar using git. </div>
-        </div>
-    </a>
-</div>
+<h3> I am a student of Amikom Yogyakarta University <h3/>
+<h3> I have an interest in Android Engineer based on native kotlin<h3/>
+<h3> Currently I also advanced study at Binnar Academy Android Engineer Division<h3/>
 
-<script id='fiverr-seller-widget-script-308a7911-9178-4515-a2bb-c0c9a8ecf104' src='https://widgets.fiverr.com/api/v1/seller/rifqipadi_?widget_id=308a7911-9178-4515-a2bb-c0c9a8ecf104' data-config='{"category_name":"Programming \u0026 Tech"}' async='true' defer='true'></script>
+<!--
+**Rifqips/Rifqips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rifqips&show_icons=true&theme=radical) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifqips&layout=compact)](https://github.com/rifqips/github-readme-stats)
+
