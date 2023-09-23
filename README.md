@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 <h3> I am a student of Amikom Yogyakarta University <h3/>
-<h3> I have an interest in Android Engineer based on native kotlin<h3/>
-<h3> Currently I also advanced study at Bangkit Mobile Learning Path<h3/>
-
+<h3> I have an interest in MMobile Developer<h3/>
 <!--
 **Rifqips/Rifqips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
